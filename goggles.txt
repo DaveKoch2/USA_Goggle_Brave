@@ -1,5 +1,5 @@
 ! name: Easy Filter
-! description: Easy Filter for mostly non-usefull sites when needing faster productive results
+! description: Easy Filter when needing faster productive results. For questions, comments, compliments :) , send email to dontknowit@gmail.com
 ! public: true
 ! author: Brahim Abdellaoui
 
