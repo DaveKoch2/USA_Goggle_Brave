@@ -87,4 +87,5 @@ $discard,site=bloomberg.com
 $discard,site=thehill.com
 $discard,site=vox.com
 $discard,site=wellsfargo.com
+$discard,site=meta.com
 
