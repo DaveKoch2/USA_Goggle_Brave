@@ -44,7 +44,6 @@ $discard,site=fidelity.com
 $discard,site=news.google.com
 $discard,site=peacocktv.com
 $discard,site=cnbc.com
-$discard,site=wellsfargo.com
 $discard,site=bbc.com
 $discard,site=hbomax.com
 $discard,site=openai.com
@@ -87,4 +86,5 @@ $discard,site=theguardian.com
 $discard,site=bloomberg.com
 $discard,site=thehill.com
 $discard,site=vox.com
+$discard,site=wellsfargo.com
 
