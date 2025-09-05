@@ -51,4 +51,21 @@ $discard,site=wells fargo.com
 $discard,site=bbc.com
 $discard,site=hbomax.com
 $discard,site=openai.com
+$discard,site=mcdonalds.com
+$discard,site=starbucks.com
+$discard,site=chick-fil-a.com
+$discard,site=tacobell.com
+$discard,site=wendys.com
+$discard,site=dunkindonuts.com
+$discard,site=burgerking.com
+$discard,site=subway.com
+$discard,site=dominos.com
+$discard,site=chipotle.com
+$discard,site=pizzahut.com
+$discard,site=popeyes.com
+$discard,site=panerabread.com
+$discard,site=kfc.com
+$discard,site=hardees.com
+
+
 
