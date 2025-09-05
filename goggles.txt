@@ -20,6 +20,7 @@ $discard,site=walmart.com
 $discard,site=office.com
 $discard,site=netflix.com
 $discard,site=twitch.tv
+$discard,site=ebay.com
 $discard,site=live.com
 $discard,site=pinterest.com
 $discard,site=roblox.com
@@ -89,6 +90,7 @@ $discard,site=vox.com
 $discard,site=wellsfargo.com
 $discard,site=meta.com
 $downrank=5,site=wikipedia.org
+
 
 
 
