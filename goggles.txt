@@ -88,6 +88,8 @@ $discard,site=thehill.com
 $discard,site=vox.com
 $discard,site=wellsfargo.com
 $discard,site=meta.com
+$downrank=5,site=wikipedia.org
+
 
 
 
