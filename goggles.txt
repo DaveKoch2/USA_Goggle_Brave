@@ -1,7 +1,7 @@
 ! name: USA_Filter
-! description: Easy Filter excluding some dominating sites with minimal added value. For questions, comments, compliments :) , send email to dontknowit@gmail.com
+! description: Easy Filter excluding some dominating sites. For questions, comments, compliments :) , send email or signal (message) dontknowit@gmail.com or 00 31 06 33 31 48 03 
 ! public: true
-! author: BA 00 06 33 31 48 03  Only Signal app.
+! author: BA 00 31 06 33 31 48 03  Only Signal app.
 
 
 $discard,site=google.com
@@ -17,11 +17,8 @@ $discard,site=chatgpt.com
 $discard,site=linkedin.com
 $discard,site=paypal.com
 $discard,site=walmart.com
-$discard,site=nytimes.com
 $discard,site=office.com
 $discard,site=netflix.com
-$discard,site=cnn.com
-$discard,site=espn.com
 $discard,site=twitch.tv
 $discard,site=live.com
 $discard,site=pinterest.com
@@ -66,6 +63,27 @@ $discard,site=popeyes.com
 $discard,site=panerabread.com
 $discard,site=kfc.com
 $discard,site=hardees.com
-
-
-
+$discard,site=usatoday.com
+$discard,site=news.yahoo.com
+$discard,site=espn.com
+$discard,site=nbcnews.com
+$discard,site=nytimes.com
+$discard,site=cnn.com
+$discard,site=reuters.com
+$discard,site=npr.org
+$discard,site=apnews.com
+$discard,site=washingtonpost.com
+$discard,site=foxnews.com
+$discard,site=abcnews.go.com
+$discard,site=cbsnews.com
+$discard,site=huffpost.com
+$discard,site=politico.com
+$discard,site=wsj.com
+$discard,site=latimes.com
+$discard,site=bostonglobe.com
+$discard,site=chicagotribune.com
+$discard,site=newsweek.com
+$discard,site=theguardian.com
+$discard,site=bloomberg.com
+$discard,site=thehill.com
+$discard,site=vox.com
