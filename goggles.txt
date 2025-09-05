@@ -4,5 +4,51 @@
 ! author: BA 00 06 33 31 48 03  Only Signal app.
 
 
-$discard,site=google.com $discard,site=youtube.com $discard,site=facebook.com $discard,site=amazon.com $discard,site=reddit.com $discard,site=bing.com $discard,site=yahoo.com $discard,site=instagram.com $discard,site=x.com $discard,site=chatgpt.com $discard,site=linkedin.com $discard,site=paypal.com $discard,site=walmart.com $discard,site=nytimes.com $discard,site=office.com $discard,site=netflix.com $discard,site=cnn.com $discard,site=espn.com $discard,site=twitch.tv $discard,site=live.com $discard,site=pinterest.com $discard,site=roblox.com $discard,site=foxnews.com $discard,site=aol.com $discard,site=capitalone.com $discard,site=microsoft.com $discard,site=sharepoint.com $discard,site=chase.com $discard,site=temu.com $discard,site=discord.com $discard,site=msn.com $discard,site=people.com $discard,site=hulu.com $discard,site=finance.yahoo.com $discard,site=apple.com $discard,site=citi.com $discard,site=nypost.com $discard,site=office365.com $discard,site=bankofamerica.com $discard,site=fidelity.com $discard,site=news.google.com $discard,site=peacocktv.com $discard,site=cnbc.com $discard,site=wells fargo.com $discard,site=bbc.com $discard,site=hbomax.com $discard,site=openai.com
+$discard,site=google.com
+$discard,site=youtube.com
+$discard,site=facebook.com
+$discard,site=amazon.com
+$discard,site=reddit.com
+$discard,site=bing.com
+$discard,site=yahoo.com
+$discard,site=instagram.com
+$discard,site=x.com
+$discard,site=chatgpt.com
+$discard,site=linkedin.com
+$discard,site=paypal.com
+$discard,site=walmart.com
+$discard,site=nytimes.com
+$discard,site=office.com
+$discard,site=netflix.com
+$discard,site=cnn.com
+$discard,site=espn.com
+$discard,site=twitch.tv
+$discard,site=live.com
+$discard,site=pinterest.com
+$discard,site=roblox.com
+$discard,site=foxnews.com
+$discard,site=aol.com
+$discard,site=capitalone.com
+$discard,site=microsoft.com
+$discard,site=sharepoint.com
+$discard,site=chase.com
+$discard,site=temu.com
+$discard,site=discord.com
+$discard,site=msn.com
+$discard,site=people.com
+$discard,site=hulu.com
+$discard,site=finance.yahoo.com
+$discard,site=apple.com
+$discard,site=citi.com
+$discard,site=nypost.com
+$discard,site=office365.com
+$discard,site=bankofamerica.com
+$discard,site=fidelity.com
+$discard,site=news.google.com
+$discard,site=peacocktv.com
+$discard,site=cnbc.com
+$discard,site=wells fargo.com
+$discard,site=bbc.com
+$discard,site=hbomax.com
+$discard,site=openai.com
 
