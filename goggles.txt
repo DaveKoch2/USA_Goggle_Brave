@@ -1,5 +1,5 @@
 ! name: USA_Filter
-! description: Easy Filter excluding some dominating sites. For questions, comments, compliments :) , send email or signal (message) dontknowit@gmail.com or 00 31 06 33 31 48 03 
+! description: Easy Filter to give less priority to some dominating sites, hugh fastfood restaurants and dominating newssites only bringing depressing news. If you need reviews or similar, add FORUM to your search queue to find communities. Best of luck :) For questions, comments and off course compliments :) , send email or signal (message) to dontknowit@gmail.com or 00 31 06 33 31 48 03 
 ! public: true
 ! author: BA 00 31 06 33 31 48 03  Only Signal app.
 
@@ -88,4 +88,5 @@ $discard,site=thehill.com
 $discard,site=vox.com
 $discard,site=wellsfargo.com
 $discard,site=meta.com
+
 
